@@ -1,3 +1,9 @@
+ffcall (2.4-1deepin2) unstable; urgency=medium
+
+  * fix: add loong64 support
+
+ -- Chang Yang <yangchang@deepin.org>  Wed, 24 Jan 2024 17:12:11 +0800
+
 ffcall (2.4-1deepin1) unstable; urgency=medium
 
   * fix: switch to libtool 2.4.7
